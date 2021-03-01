@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "dependencies": {
-    "@prisma/client": "2.18.0-dev.48",
+    "@prisma/client": "2.18.0-dev.49",
     "apollo-server": "2.21.0",
     "graphql": "15.5.0",
     "graphql-iso-date": "3.6.1",
@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "nodemon": "2.0.7",
-    "prisma": "2.18.0-dev.48"
+    "prisma": "2.18.0-dev.49"
   },
   "prettier": {
     "singleQuote": true,
